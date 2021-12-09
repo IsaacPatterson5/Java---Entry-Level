@@ -1,6 +1,6 @@
 /**
  *  This program demonstrates
- *  how to use variables in a program
+ *  how to use variables in a program.
  */
 public class Main
 {
