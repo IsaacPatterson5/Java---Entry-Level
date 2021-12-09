@@ -2,7 +2,7 @@
  *  This program demonstrates
  *  how to use variables in a program
  */
-public class Main
+public class Main1.4
 {
    public static void main(String[] args)
    {
